@@ -1,0 +1,7 @@
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\bin\Debug\MformatikTestService.exe.config
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\bin\Debug\MformatikTestService.exe
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\bin\Debug\MformatikTestService.pdb
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\obj\Debug\MformatikTestService.csproj.AssemblyReference.cache
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\obj\Debug\MformatikTestService.csproj.CoreCompileInputs.cache
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\obj\Debug\MformatikTestService.exe
+E:\Development\C#\C#_Projects\MformatikTestService\MformatikTestService\obj\Debug\MformatikTestService.pdb
